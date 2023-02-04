@@ -1,4 +1,4 @@
-#Frontend code for GraphNet
+# Frontend code for GraphNet
 
 To install dependencies, run:
 
