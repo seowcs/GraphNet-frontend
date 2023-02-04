@@ -11,4 +11,8 @@ To run the app in development mode on localhost:3000, run:
 
 ## Note:
 
+Do not put ' or - in concept titles and usernames.
+
+Do not put ' in the text area.
+
 As this is a minimum viable product, error handling is not well developed.
