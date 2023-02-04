@@ -1,7 +1,6 @@
-<img width="960" alt="Screenshot_20230205_121628" src="https://user-images.githubusercontent.com/110110916/216781666-63f9d545-81aa-4799-a1aa-b5690a6fae7b.png">
-
-
 # Frontend code for GraphNet
+
+<img width="960" alt="Screenshot_20230205_121628" src="https://user-images.githubusercontent.com/110110916/216781666-63f9d545-81aa-4799-a1aa-b5690a6fae7b.png">
 
 To install dependencies, run:
 
